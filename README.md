@@ -6,5 +6,7 @@ https://makecode.microbit.org/
 
 There will be a simulation there and you can download it onto your 2 micro: Bits and modify the code how you like
 
+There is also pictures of the code in the folder
+
 Thanks
 
